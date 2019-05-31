@@ -24,7 +24,7 @@ Before you get started, make sure you have:
 
 Installation
 -------------
-     git clone https://github.com/nxkennedy/python-verodin-director-api.git
+     git clone https://github.com/MindPointGroup/python-verodin-director-api.git
 
 change directories to the newly cloned folder
      
