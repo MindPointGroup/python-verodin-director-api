@@ -1,5 +1,7 @@
 # Verodin Director API
-A simple Python wrapper for the Verodin Director API
+A simple Python wrapper for the Verodin Director API 
+<br>
+Tested on Director Version: 3.5.4.0
 <br>
 https://www.verodin.com/technology/platform
 
